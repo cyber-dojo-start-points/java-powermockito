@@ -1,6 +1,6 @@
 {
-  "display_name": "Java, PowerMockito",
-  "image_name": "cyberdojofoundation/java_powermockito:651f394",
+  "display_name": "Java 21, PowerMockito 1.7",
+  "image_name": "cyberdojofoundation/java_powermockito:cf552eb",
   "visible_filenames": [
     "HikerTest.java",
     "Hiker.java",

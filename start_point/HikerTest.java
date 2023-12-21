@@ -4,12 +4,14 @@ import org.junit.runner.RunWith;
 
 import org.powermock.modules.junit4.PowerMockRunner;
 import org.powermock.core.classloader.annotations.PrepareForTest;
+import org.powermock.core.classloader.annotations.PowerMockIgnore;
 import static org.powermock.api.mockito.PowerMockito.*;
 import org.mockito.stubbing.Answer;
 import org.mockito.invocation.InvocationOnMock;
 import static org.mockito.Matchers.anyString;
 
 @RunWith(PowerMockRunner.class)
+@PowerMockIgnore("jdk.internal.reflect.*")
 @PrepareForTest(DiskLogger.class)
 public class HikerTest {
 
