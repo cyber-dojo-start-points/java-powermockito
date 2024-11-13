@@ -1,5 +1,5 @@
 {
-  "display_name": "Java 21, PowerMockito 1.7",
+  "display_name": "Java 21, PowerMockito 2.0.9",
   "image_name": "ghcr.io/cyber-dojo-languages/java_powermockito:81b2f4d",
   "visible_filenames": [
     "HikerTest.java",
