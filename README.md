@@ -1,4 +1,4 @@
-[![Github Action (main)](https://github.com/cyber-dojo-start-points/java-powermockito/actions/workflows/main.yml/badge.svg)](https://github.com/cyber-dojo-start-points/java-powermockito/actions)
+[![GitHub CI](../../actions/workflows/main.yml/badge.svg)](../../actions/workflows/main.yml)
 
 ### display_name="Java 21, PowerMockito 2.0.9"
 ### image_name="[ghcr.io/cyber-dojo-languages/java_powermockito](https://github.com/cyber-dojo-languages/java-powermockito/pkgs/container/java_powermockito)"
