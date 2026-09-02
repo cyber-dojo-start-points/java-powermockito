@@ -1,14 +1,14 @@
 {
-  "display_name": "Java 21, PowerMockito 2.0.9",
+  "display_name": "Java 26.0.2.1, PowerMockito 2.0.9",
   "language": [
     "Java",
-    "21"
+    "26.0.2.1"
   ],
   "test_framework": [
     "PowerMockito",
     "2.0.9"
   ],
-  "image_name": "ghcr.io/cyber-dojo-languages/java_powermockito:81b2f4d",
+  "image_name": "ghcr.io/cyber-dojo-languages/java_powermockito:5b50d01",
   "visible_filenames": [
     "HikerTest.java",
     "Hiker.java",
@@ -16,9 +16,14 @@
     "DiskLogger.java",
     "cyber-dojo.sh"
   ],
+  "rag_lambda": "red_amber_green.rb",
   "filename_extension": [
     ".java"
   ],
   "max_seconds": 10,
-  "tab_size": 4
+  "tab_size": 4,
+  "progress_regexs": [
+    "Tests run\\: (\\d)+,(\\s)+Failures\\: (\\d)+",
+    "OK \\((\\d)+ test(s)?\\)"
+  ]
 }
