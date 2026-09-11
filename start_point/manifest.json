@@ -1,14 +1,14 @@
 {
-  "display_name": "Java 26.0.2.1, PowerMockito 2.0.9",
+  "display_name": "Java 26.0, PowerMockito 2.0",
   "language": [
     "Java",
-    "26.0.2.1"
+    "26.0"
   ],
   "test_framework": [
     "PowerMockito",
-    "2.0.9"
+    "2.0"
   ],
-  "image_name": "ghcr.io/cyber-dojo-languages/java_powermockito:5b50d01",
+  "image_name": "ghcr.io/cyber-dojo-languages/java_powermockito:f91e7a0",
   "visible_filenames": [
     "HikerTest.java",
     "Hiker.java",
