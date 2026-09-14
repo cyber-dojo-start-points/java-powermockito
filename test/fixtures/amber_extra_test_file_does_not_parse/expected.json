@@ -1,0 +1,8 @@
+{
+  "matches": [ "^AnswerSizeTest\\.java:[0-9]+: error: ';' expected$" ],
+  "match_counts": {
+    "^1 error$": 1,
+    "^OK \\(": 0,
+    "^Tests run: ": 0
+  }
+}

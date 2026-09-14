@@ -1,0 +1,9 @@
+{
+  "match_counts": {
+    "^There was 1 failure:$": 1,
+    "^1\\) life_the_universe_and_everything\\(HikerTest\\)$": 1,
+    "^java\\.lang\\.AssertionError: expected:<42> but was:<54>$": 1,
+    "^Tests run: 3, +Failures: 1$": 1,
+    "^OK \\(": 0
+  }
+}

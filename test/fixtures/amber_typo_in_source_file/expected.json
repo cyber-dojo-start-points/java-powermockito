@@ -1,0 +1,11 @@
+{
+  "matches": [
+    "^Hiker\\.java:[0-9]+: error: cannot find symbol$",
+    "^ +symbol: +method sixTimesSevn\\(\\)$"
+  ],
+  "match_counts": {
+    "^1 error$": 1,
+    "^OK \\(": 0,
+    "^Tests run: ": 0
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "max_output_lines": 15,
+  "match_counts": {
+    "^\\.\\.\\.$": 1,
+    "^OK \\(3 tests\\)$": 1
+  }
+}

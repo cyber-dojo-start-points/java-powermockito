@@ -1,0 +1,8 @@
+{
+  "max_output_lines": 15,
+  "match_counts": {
+    "^\\.$": 1,
+    "^OK \\(1 test\\)$": 1,
+    "Hiker": 0
+  }
+}

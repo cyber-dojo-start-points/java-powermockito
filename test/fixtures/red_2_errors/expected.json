@@ -1,0 +1,9 @@
+{
+  "match_counts": {
+    "^There were 2 failures:$": 1,
+    "^java\\.lang\\.ArithmeticException: / by zero$": 2,
+    "^FAILURES!!!$": 1,
+    "^Tests run: 2, +Failures: 2$": 1,
+    "^OK \\(": 0
+  }
+}

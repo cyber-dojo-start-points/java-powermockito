@@ -1,0 +1,12 @@
+{
+  "matches": [
+    "^HikerTest\\.java:[0-9]+: error: cannot find symbol$",
+    "^ +symbol: +method lgo\\(String\\)$",
+    "^ +location: +class DiskLogger$"
+  ],
+  "match_counts": {
+    "^1 error$": 1,
+    "^OK \\(": 0,
+    "^Tests run: ": 0
+  }
+}

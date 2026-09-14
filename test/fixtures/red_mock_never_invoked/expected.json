@@ -1,0 +1,9 @@
+{
+  "match_counts": {
+    "^Wanted but not invoked:$": 1,
+    "^diskLogger\\.log\\(\"The answer is 6 \\* 7\"\\);$": 1,
+    "^Actually, there were zero interactions with this mock\\.$": 1,
+    "^Tests run: 1, +Failures: 1$": 1,
+    "^OK \\(": 0
+  }
+}
