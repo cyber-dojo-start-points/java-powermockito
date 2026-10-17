@@ -20,7 +20,6 @@
   "filename_extension": [
     ".java"
   ],
-  "max_seconds": 10,
   "tab_size": 4,
   "progress_regexs": [
     "Tests run\\: (\\d)+,(\\s)+Failures\\: (\\d)+",
