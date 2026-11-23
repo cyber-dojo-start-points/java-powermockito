@@ -1,14 +1,14 @@
 {
-  "display_name": "Java 27.0.1.0.3, PowerMockito 2.0.9",
+  "display_name": "Java 27.0.1.1, PowerMockito 2.0.9",
   "language": [
     "Java",
-    "27.0.1.0.3"
+    "27.0.1.1"
   ],
   "test_framework": [
     "PowerMockito",
     "2.0.9"
   ],
-  "image_name": "ghcr.io/cyber-dojo-languages/java_powermockito:6890e48@sha256:8c4714f62c044c5e8321d55d9e0a1ed5aef3ff57356963110b3549195679899a",
+  "image_name": "ghcr.io/cyber-dojo-languages/java_powermockito:93c1a21@sha256:850677b611a4b74958ddf42fd173068934927c6888922da49b718c9ca0c7c9c1",
   "visible_filenames": [
     "HikerTest.java",
     "Hiker.java",
